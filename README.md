@@ -7,7 +7,7 @@
 
 ## 📕 배우는 것들
 1. Javascript 기초 **<- 방학 중 끝냄**
-2. Javascript 활용한 프로젝트(<a href="https://nomadcoders.co/javascript-for-beginners">참고1</a>, <a href="https://nomadcoders.co/javascript-for-beginners-2">참고2</a>, <a href="https://youtu.be/9TcU2C1AACw">참고3</a>)
+2. Javascript 활용한 프로젝트(<a href="https://nomadcoders.co/javascript-for-beginners">참고1</a>, <a href="https://nomadcoders.co/javascript-for-beginners-2">참고2</a>, <a href="https://vanillawebprojects.com/projects/dom-array-methods/">참고3</a>)
 
 <br>
 
@@ -18,8 +18,8 @@
 * 바닐라 JS로 그림판 만들기
 <img src="img/paint.png">
 
-* 바닐라 JS로 뱀게임 만들기
-<img src="img/snake.png">
+* 바닐라 JS로 계산기(?) 만들기
+<img src="img/calcurator.png">
 
 <br>
 
