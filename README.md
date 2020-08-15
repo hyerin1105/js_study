@@ -1,17 +1,18 @@
 # Javascript
 * [프론트엔드반] - 이승준 선생님
 * 8월 17일부터 시작(수강생들과 일정 조율)
+* 수강 제한 선생님 미포함 **4**명, 선착순
 
 <br>
 
 ## 📕 배우는 것들
-1. Javascript 기초
+1. Javascript 기초 **<- 방학 중 끝냄**
 2. Javascript 활용한 프로젝트(<a href="https://nomadcoders.co/javascript-for-beginners">참고1</a>, <a href="https://nomadcoders.co/javascript-for-beginners-2">참고2</a>, <a href="https://youtu.be/9TcU2C1AACw">참고3</a>)
 
 <br>
 
 ## 😎 배우고 나면
-* 바닐라 JS로 크롬 앱 만들기
+* 바닐라 JS로 크롬 앱 만들기 **<- 방학 중 끝냄**
 <img src="img/chrome.png">
 
 * 바닐라 JS로 그림판 만들기
