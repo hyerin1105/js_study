@@ -1,13 +1,13 @@
-const title = document.querySelector('#title');
+const title = document.querySelector("#title");
 
-const CLICKED_CLASS = 'clicked';
+const CLICKED_CALSS="clicked";
 
-function handleClick() {
-    title.classList.toggle(CLICKED_CLASS);
+function handleClik(){
+    title.classList.toggle(CLICKED_CALSS);
 }
 
-function init() {
-    title.addEventListener('click', handleClick);
-}
+function init(){
+    title.addEventListener("click",handleClik);
 
+}
 init();
